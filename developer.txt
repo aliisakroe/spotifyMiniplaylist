@@ -1,0 +1,9 @@
+﻿﻿Spotify URI,Track Name,Artist Name,Album Name,Disc Number,Track Number,Track Duration (ms),Added By,Added At
+"spotify:track:3q39WfaNo82tU9ygxMLigA","Babylon of the Occident - Instrumental","The Shanghai Restoration Project","Instrumentals","1","10","234000","spotify:user:12130021549","2015-12-08T07:13:38Z"
+"spotify:track:34v7Zs9a64h1xC3PWrmypP","Cream On Chrome","Ratatat","Cream On Chrome","1","1","235362","spotify:user:12130021549","2015-12-08T07:14:15Z"
+"spotify:track:3MxUDEw31beZO6uol0Hca4","Music For A Found Harmonium","Penguin Cafe Orchestra","Preludes, Airs And Yodels (A Penguin Cafe Primer)","1","1","219693","spotify:user:12130021549","2015-12-08T07:15:47Z"
+"spotify:track:1AJ6dy0kvwMqGNPAT8XlJp","Pulaski at Night","Andrew Bird","I Want to See Pulaski at Night","1","4","289093","spotify:user:12130021549","2015-12-08T07:16:46Z"
+"spotify:track:0PEXp5yk0sx9dJ8JzwvjJb","Multi-Love","Unknown Mortal Orchestra","Multi-Love","1","1","250800","spotify:user:12130021549","2015-12-08T07:19:14Z"
+"spotify:track:2JdkYNZKWht1jKS2w70ce7","5ft7","Tonstartssbandht","An When","1","4","205500","spotify:user:12130021549","2015-12-08T07:19:50Z"
+"spotify:track:6ip7iRhaxc1yXD2nYM0Rw3","Colorado","Lotus ","Nomad","1","9","306840","spotify:user:12130021549","2015-12-08T07:20:55Z"
+"spotify:track:5UcGx15RgoBCquQM8j7ylv","Aftergold","Big Wild","Aftergold","1","1","229841","spotify:user:12130021549","2015-12-08T07:36:21Z"
